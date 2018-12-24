@@ -16,6 +16,7 @@ body {
 	/* newsprint */
 	color: rgba(0, 0, 0, 1); /* black */
 	font-size: 1.75em;
+	background-image: url("/img/bg.svg");
 }
 h3 {
 	margin: 0;
